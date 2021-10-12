@@ -6,5 +6,10 @@ This analysis was conducted to show the total weekly ride fares for each city ty
 
 ## Results
 
+![](https://raw.githubusercontent.com/JonathanBrown003/PyBer_Analysis/main/analysis/City_Type_Summary.PNG)
+
+
+
+![](https://raw.githubusercontent.com/JonathanBrown003/PyBer_Analysis/main/analysis/Pyber_fare_summary.png)
 
 ## Summary
